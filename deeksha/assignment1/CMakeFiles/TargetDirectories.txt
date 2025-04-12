@@ -1,0 +1,3 @@
+/home/user3/deeksha/assignment1/CMakeFiles/copy.dir
+/home/user3/deeksha/assignment1/CMakeFiles/edit_cache.dir
+/home/user3/deeksha/assignment1/CMakeFiles/rebuild_cache.dir
